@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Refubrished",
+      "price": 300,
+      "comment": "yup!",
+      "date": "2023-01-18T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "iphone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 89000,
+      "comment": "ty!",
+      "date": "2023-01-26T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
